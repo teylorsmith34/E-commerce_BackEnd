@@ -21,4 +21,4 @@ To install this app, simply clone the repository and run `npm install` in the co
 -----
 
 
-GitHub Repo:  https://github.com/teylorsmith34/employeeTracker
+GitHub Repo:  https://github.com/teylorsmith34/E-commerce_BackEnd
